@@ -1,13 +1,16 @@
 # Food-Cocktails-API
 Have instruction for Making your Food and Cocktails at Home.
-User Story
+
+# User Story
+
 As a User
 
 I WANT to be able to select if I want to make a meal or a cocktail
 
 SO THAT I can search for a meal or a cocktail and get step by step guide on how to make it.
 
-Acceptance Criteria
+# Acceptance Criteria
+
 It's done when:
 
 The site is build using Bootstrap.
@@ -24,7 +27,8 @@ The app is responsive and has a polished UI.
 
 Welcome to our Food and Cocktails Recipe website! This website provides a collection of delicious cocktail and meal recipes using APIs for you to enjoy. You can find the website at 
 
-Features
+# Features
+
 Our website includes the following features:
 
 Easy navigation to find your favorite recipes.
