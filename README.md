@@ -25,7 +25,7 @@ The app uses client-side storage to store persistent data.
 
 The app is responsive and has a polished UI.
 
-Welcome to our Food and Cocktails Recipe website! This website provides a collection of delicious cocktail and meal recipes using APIs for you to enjoy. You can find the website at 
+Welcome to our Food and Cocktails Recipe website! This website provides a collection of delicious cocktail and meal recipes using APIs for you to enjoy. You can find the website at: https://ajinthapa2000.github.io/Food-Cocktails-API/
 
 # Features
 
